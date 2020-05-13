@@ -175,7 +175,7 @@ start_time = time.time()
 λ = 0.25
 print("Lambda é = " + str(λ))
 
-tamanhoBarra = 2 # comprimento
+tamanhoBarra = 1 # comprimento
 T = 1 #segundos
 
 delta_x = 1/N #-------------------------------------------------- delta x esta em [0, 1] - discretização espacial
